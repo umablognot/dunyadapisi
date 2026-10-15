@@ -7,6 +7,7 @@ Dünyada Pisi Linux Haberler - Pisi Linux ile ilgili çıkan haber ve makaleler 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Backend](https://img.shields.io/badge/Backend-Yok-success?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
+![License: [Free](https://endsoftpatents.org/innovating-out-patents)]<img src="https://static.fsf.org/nosvn/opsn/sp.patent-free.svg" alt="screen" width="%100" height="100%">
 
 > 2005’ten günümüze Pisi Linux: sürümler, haberler, incelemeler, forum tartışmaları ve gelecek önerileri tek bir modern arşivde.
 
